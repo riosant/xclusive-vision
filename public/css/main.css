@@ -1,0 +1,28 @@
+.error {
+    color: #ff6541 !important;
+    font-weight: 500 !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.search-box-form {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+}
+
+.search-box-form input {
+    min-width: 300px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+#userModal .row {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
